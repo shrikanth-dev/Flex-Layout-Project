@@ -34,13 +34,13 @@ Maintain consistent spacing and alignment across containers using gap, flex-basi
 
 ### Screenshot
 
-![](./screenshots/results-summary-component-desktop-img.png)
-![](./screenshots/results-summary-component-mobile-img.png))
+![](Image.png)
+
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: https://github.com/shrikanth-dev/Flex-Layout-Project
+- Live Site URL: https://shrikanth-dev.github.io/Flex-Layout-Project/
 
 ### Built with
 
