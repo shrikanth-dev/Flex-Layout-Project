@@ -12,35 +12,26 @@
 
 ## Overview
 
-A responsive Flexbox layout project demonstrating multi-section flexible grids, alignment, and responsive breakpoints.
+This project demonstrates a responsive Flexbox-based layout using HTML and CSS, showcasing multi-section grids, consistent alignment, and responsiveness across devices.
 
 ### The challenge
 
-Users should be able to:
-
-Build a responsive layout using HTML and CSS Flexbox.
-
-Adjust layout across breakpoints:
-
-Default large screens
-
-Max-width 760px
-
-Max-width 320px
-
-Ensure all divs center their content using Flexbox alignment.
-
-Maintain consistent spacing and alignment across containers using gap, flex-basis, and flex-wrap.
+- Build a multi-section page layout using Flexbox for structure and alignment.
+-Adjust layout responsively for:
+-Desktop
+    -Tablet (max-width: 768px)
+    -Mobile (max-width: 320px)
+-Maintain clear, consistent alignment and spacing using flex-basis, flex-wrap, gap, and centered alignment.
 
 ### Screenshot
 
-![](Image.png)
-
+![](./screenshots/results-summary-component-desktop-img.png)
+![](./screenshots/results-summary-component-mobile-img.png))
 
 ### Links
 
-- Solution URL: https://github.com/shrikanth-dev/Flex-Layout-Project
-- Live Site URL: https://shrikanth-dev.github.io/Flex-Layout-Project/
+- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ### Built with
 
