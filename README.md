@@ -32,6 +32,7 @@ Ensure all divs center their content using Flexbox alignment.
 Maintain consistent spacing and alignment across containers using gap, flex-basis, and flex-wrap.
 
 ### Screenshot
+![](Image.png)
 
 Image.png
 
